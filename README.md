@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-Course-Project-
+# Exploratory Data Analysis Course Project
 Final course project for Coursera's Exploratory Data Analysis Project 
 
 This is a series of charts submitted for the final course project. Each plot is saved in a separate R file and the output of each chart is saved in a png file.
